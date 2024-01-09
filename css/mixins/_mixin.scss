@@ -1,0 +1,12 @@
+@mixin pro($p1,$p2,$p3){
+    color: $p1;
+    margin-left: $p2;
+    margin-right: $p3;
+}
+
+@mixin font($p1,$p2,$p3){
+    color: $p1;
+    font-weight: $p2;
+    font-size: $p3;
+}
+ 
