@@ -23,8 +23,8 @@ you can scan your data and it will be stored  and you can access to your data  a
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Hajerabdeen/clipboard-landing-page]
+- Live Site URL: [https://hajerabdeen.github.io/clipboard-landing-page/]
 
 
 ## My process
